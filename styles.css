@@ -1,0 +1,19 @@
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 15em;
+}
+
+h1 { 
+  text-align: center;
+}
+
+div {
+  text-align: center; /* aligns button */
+}
+
+p {
+  color: blue;
+}
